@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anandu396(Anand Sangabattuni)
+- 👋 Hi, I’m Anand Sangabattuni
 - 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning Data Analysis Techniques and Statistics
 - 💞️ I’m looking to collaborate on making beginner level projects in Machine learning
