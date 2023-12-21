@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anand Sangabattuni
-- 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently learning Data Analysis Techniques and Statistics
-- 💞️ I’m looking to collaborate on making beginner level projects in Machine learning
+- 👀 I’m a Generative AI Developer
+- 🌱 I’m currently learning RAG and RLHF, I'm currently using Google Cloud for Dev environment
+- 💞️ I’m looking to collaborate on making exciting projects using Generative AI
 - 📫 How to reach me - email : anandu396@gmail.com
 
 <!---
