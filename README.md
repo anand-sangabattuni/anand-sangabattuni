@@ -1,10 +1,26 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
-<h3 align="center">A passionate generative AI engineer from India</h3>
+<h3 align="center">A star wars fan, cricketer and gamer. I work as a generative AI engineer</h3>
 
+
+- 🔭 I’m currently working on **Video Anonymization**
+
+- 🌱 I’m currently learning **RAG and RLHF**
+
+- 👯 I’m looking to collaborate on **AI powered fashion assistant**
+
+- 🤝 I’m looking for help with **Vue for front end development and Deployment using Docker**
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **anandu396@gmail.com**
+
+- ⚡ Fun fact **I can do a 5 min plank**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anandsangabattuni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandsangabattuni" height="30" width="40" /></a>
+<a href="https://kaggle.com/anandsangabattuni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anandsangabattuni" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anandu396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anandu396" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
