@@ -29,3 +29,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-sangabattuni&show_icons=true&locale=en&layout=compact" alt="anand-sangabattuni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-sangabattuni&" alt="anand-sangabattuni" /></p>
+
+
+![](https://komarev.com/ghpvc/?username=anand-sangabattuni&label=PROFILE+VIEWS)
